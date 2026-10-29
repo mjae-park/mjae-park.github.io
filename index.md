@@ -14,6 +14,30 @@ I am an M.S./Ph.D. student in Electrical Engineering at POSTECH, advised by [Pro
 
 - **Model Compression**: structured pruning, dynamic depth pruning, efficient inference
 
+## Education
+
+- **Pohang University of Science and Technology (POSTECH)**  
+  M.S./Ph.D. in Electrical Engineering · Feb. 2024 – Present  
+  Advisor: Prof. Jaeho Lee
+
+- **Sogang University**  
+  B.S. in Electronic Engineering · Feb. 2020 – Feb. 2024
+
+## Positions
+
+- **NAVER Cloud**  
+  Research Intern, World Best LLM (WBL) Project  
+  Oct. 2025 – Mar. 2026
+
+- **Efficient Learning Lab, POSTECH**  
+  Graduate Research Assistant  
+  Jan. 2024 – Present  
+  Advisor: Prof. Jaeho Lee
+
+## Teaching Experience
+
+- **Teaching Assistant**, EECE454: Introduction to Machine Learning Systems  
+  POSTECH · Fall 2024
 
 {% include_relative _includes/publications.md %}
 
