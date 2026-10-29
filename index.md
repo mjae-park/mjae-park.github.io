@@ -4,19 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an M.S./Ph.D. student in Electrical Engineering at POSTECH, advised by Prof. Jaeho Lee in the Efficient Learning Lab. My research interests lie in post-training methods for large language models, particularly knowledge distillation and model efficiency. Currently, I study how teacher knowledge can be effectively transferred to student models under limited-data settings. Previously, I worked on pruning algorithms for large language models.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Knowledge Distillation**: transferable teacher knowledge, teacher selection, data-efficient distillation
 
-## News
+- **LLM Post-Training**: distillation for large language models, efficient adaptation
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Model Compression**: structured pruning, dynamic depth pruning, efficient inference
+
 
 {% include_relative _includes/publications.md %}
 
