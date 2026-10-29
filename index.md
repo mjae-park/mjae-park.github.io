@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an M.S./Ph.D. student in Electrical Engineering at POSTECH, advised by Prof. Jaeho Lee in the Efficient Learning Lab. My research interests lie in post-training methods for large language models, particularly knowledge distillation and model efficiency. Currently, I study how teacher knowledge can be effectively transferred to student models under limited-data settings. Previously, I worked on pruning algorithms for large language models.
+I am an M.S./Ph.D. student in Electrical Engineering at POSTECH, advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io/) in the [Efficient Learning Lab](https://effl.postech.ac.kr/). My research interests lie in post-training methods for large language models, particularly knowledge distillation and model efficiency. Currently, I study how teacher knowledge can be effectively transferred to student models under limited-data settings. Previously, I worked on pruning algorithms for large language models.
 
 ## Research Interests
 
