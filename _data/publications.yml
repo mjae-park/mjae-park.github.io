@@ -1,22 +1,28 @@
 main:
+  - title: "When Less Data Favors Smaller Teachers: Rethinking Teacher Capacity and Data Selection for Knowledge Distillation"
+    authors: "<strong>Minjae Park</strong>, Taesun Yeom, Jaeho Lee"
+    conference_short: Preprint
+    conference: "Preprint, 2026."
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "One Bias Score, Two Factors: How Mitigations Affect Option Bias in Multiple-Choice Evaluation"
+    authors: "Hyunjong Ok, <strong>Minjae Park</strong>, Jaeho Lee"
+    conference_short: Preprint
+    conference: "Preprint, 2026."
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Small for Small: Exploring Optimal Teacher in Knowledge Distillation with Limited Data"
+    authors: "<strong>Minjae Park</strong>, Taesun Yeom, Jaeho Lee"
+    conference_short: HiLD
+    conference: "ICML Workshop on High-dimensional Learning Dynamics <strong>(HiLD)</strong>, 2026."
+
+  - title: "Prompt-based Depth Pruning of Large Language Models"
+    authors: "<strong>Minjae Park</strong>, Juyun Wee, Jaeho Lee"
+    conference_short: ICML
+    conference: "International Conference on Machine Learning <strong>(ICML)</strong>, 2025."
+    pdf: https://arxiv.org/abs/2502.04348
+    code: https://github.com/tada0347/PuDDing
+    project: https://jwee01.github.io/PuDDing/
+
+  - title: "Limitations of Hessian-based pruning on Mamba"
+    authors: "<strong>Minjae Park</strong>, Jaeho Lee"
+    conference_short: CKAIA
+    conference: "Summer Conference of Korean Artificial Intelligence Association <strong>(CKAIA)</strong>, 2024."
