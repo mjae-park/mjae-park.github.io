@@ -18,7 +18,7 @@ main:
     conference: "International Conference on Machine Learning <strong>(ICML)</strong>, 2025."
     pdf: https://arxiv.org/abs/2502.04348
     code: https://github.com/tada0347/PuDDing
-    project: https://jwee01.github.io/PuDDing/
+    page: https://jwee01.github.io/PuDDing/
 
   - title: "Small for Small: Exploring Optimal Teacher in Knowledge Distillation with Limited Data"
     authors: "<strong>Minjae Park</strong>, Taesun Yeom, Jaeho Lee"
